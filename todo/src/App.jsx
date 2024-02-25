@@ -85,6 +85,7 @@ export default function App() {
           ))}
       </div>
       <TodoForm addTodo={addTodo} />
+      <p className="by">"Dev-FernandoPereira"</p>
     </div>
   )
 }

@@ -93,3 +93,12 @@ input, select {
 .filter-options div {
     flex: 1 1 0;
 }
+
+.by{
+    text-align: center;
+    text-decoration: solid;
+    color: cadetblue;
+    text-overflow: clip;
+    text-indent: 5cap;
+    text-rendering: auto;
+}
